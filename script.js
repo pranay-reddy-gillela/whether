@@ -1,5 +1,5 @@
 // API Key (Use the one you provided)
-const apiKey = '8d1352e0e89118e112f751584c95bf1f';
+const apiKey = '06605232296847c28f0160727250302';
 
 // Function to fetch weather data
 function getWeather() {
